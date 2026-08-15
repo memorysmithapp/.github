@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/assinatura-horizontal-escuro.png">
-  <img src="assets/assinatura-horizontal-claro.png" alt="MemorySmith.app" width="634">
+  <img src="assets/assinatura-horizontal-claro.png" alt="MemorySmith.app" width="672">
 </picture>
 
 <br>
